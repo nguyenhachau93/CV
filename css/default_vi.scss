@@ -9,7 +9,23 @@
         }
     }
 }
+#home {
+    h3 {
+        color: rgb(238, 235, 216);
+        span {
+            color: rgb(10, 247, 10);
+        }
 
+        .smoothscroll {
+            color: rgb(245, 238, 198);
+            text-decoration: underline;
+        }
+    }
+
+    hr {
+        border-top: 1px solid rgb(12, 12, 12);
+    }
+}
 
 #resume {
     
@@ -28,4 +44,5 @@
         font-style: italic;
         font-weight: bold;
     }
+
 }

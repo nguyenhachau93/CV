@@ -3,6 +3,23 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+#home h3 {
+  color: #eeebd8;
+}
+
+#home h3 span {
+  color: #0af70a;
+}
+
+#home h3 .smoothscroll {
+  color: #f5eec6;
+  text-decoration: underline;
+}
+
+#home hr {
+  border-top: 1px solid #0c0c0c;
+}
+
 #resume h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
